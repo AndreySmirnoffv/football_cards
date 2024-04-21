@@ -55,14 +55,12 @@ async function playMatch(player1, player2) {
   return winner;
 }
 
-async function manageRoom() {
+async function manageRoom(bot, msg) {
   try {
-   
-
-    const waitingPlayers = db.find(player => player.isWaiting);
+    const waitingPlayers = db.filter(player => player.isWaiting);
 
     if (waitingPlayers.length < 2) {
-      console.log('Недостаточно игроков для проведения матча.');
+      await bot.sendMessage(msg.message.chat.id, 'Недостаточно игроков для проведения матча.');
       return;
     }
 
@@ -79,8 +77,8 @@ async function manageRoom() {
     player2.isMatch = false;
 
     if (winner) {
-      console.log(`Победитель матча: ${winner.name}`);
-      await bot.sendMessage(msg.chat.id, `Победитель матча: ${winner.name}`)
+      console.log(`Победитель матча: ${winner.username}`);
+      await bot.sendMessage(msg.chat.id, `Победитель матча: ${winner.username}`)
       winner.rating += 100
       fs.writeFileSync('./assets/db/db.json', JSON.stringify(db, null, '\t'))
     } else {
@@ -90,6 +88,7 @@ async function manageRoom() {
     console.error('Произошла ошибка при управлении комнатой:', error);
   }
 }
+
 
 
 module.exports = {

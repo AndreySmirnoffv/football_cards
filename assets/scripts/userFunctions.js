@@ -1,6 +1,7 @@
 const fs = require('fs')
 const db = require('../db/db.json')
-const cards = require('../db/images/images.json')
+const cards = require('../db/images/images.json');
+const { profileKeyboard } = require('../keyboard/keyboard');
 
 async function transferCard(bot, msg){
     await bot.sendMessage(msg.chat.id, "Введите название карты:");
@@ -89,7 +90,7 @@ async function addCardToMatchInventory(bot, msg){
 }
 
 async function sendProfileData(bot, msg) {
-    const filteredUsers = db.filter((user) => user?.id === msg.from.id);
+    const filteredUsers = db.filter((user) => user?.username === msg.from.username);
   
     if (filteredUsers.length > 0) {
       const user = filteredUsers[0];

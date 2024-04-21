@@ -1,10 +1,50 @@
 [
 	{
+		"id": 6822709019,
 		"username": "Andrey_Smirnoffv",
+		"first_name": "Андрей",
+		"last_name": "Смирнов",
+		"balance": 0,
+		"rating": null,
 		"inventory": [],
 		"matchInventory": [],
 		"isAdmin": false,
+		"isWaiting": true,
+		"isMatch": false,
+		"wonMatches": 0,
+		"looseMatches": 0,
+		"lastActionTime": 0
+	},
+	{
+		"id": 1425448286,
+		"username": "hashfuck",
+		"first_name": "В легких больше дыма , чем воздуха",
+		"last_name": "⁤",
 		"balance": 0,
-		"rating": null
+		"rating": null,
+		"inventory": [],
+		"matchInventory": [],
+		"isAdmin": false,
+		"isWaiting": true,
+		"isMatch": false,
+		"wonMatches": 0,
+		"looseMatches": 0,
+		"lastActionTime": 0
+	},
+	{
+		"id": 369411213,
+		"username": "El_Reys",
+		"first_name": "Дмитрий",
+		"last_name": "Ястребов",
+		"balance": 0,
+		"rating": null,
+		"inventory": [],
+		"matchInventory": [],
+		"isAdmin": false,
+		"isWaiting": false,
+		"isMatch": false,
+		"wonMatches": 0,
+		"looseMatches": 0,
+		"lastActionTime": 0
 	}
 ]
