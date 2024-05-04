@@ -8,6 +8,7 @@ const { setAdmin, removeAdmin, askCardDetails } = require('./assets/scripts/admi
 const { sendProfileData, myCards } = require('./assets/scripts/userFunctions')
 const keyboard = require('./assets/keyboard/keyboard')
 const { manageRoom } = require('./assets/scripts/matchFunctions')
+const { giveRandomCardToUser } = require('./assets/scripts/getCard')
 const commands = JSON.parse(fs.readFileSync('./assets/db/commands/commands.json'))
 
 bot.setMyCommands(commands)
@@ -41,9 +42,11 @@ bot.on('message', async msg => {
           }
     }else if(msg.text === 'Личный профиль'){
         sendProfileData(bot, msg)
+    }else if (msg.text === "Получить карточку"){
+        giveRandomCardToUser(bot, msg)
     }else{
         const adminMessage = user.isAdmin ? `${msg.from.username} Вы админ вот что вы можете сделать` : ""
-        await bot.sendMessage(msg.chat.id, adminMessage, adminKeyboard)
+        await bot.sendMessage(msg.chat.id, adminMessage, startKeyboard)
     }
 })
 

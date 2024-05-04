@@ -1,1 +1,29 @@
-[]
+[
+	{
+		"cardName": "123",
+		"cardPhoto": "AgACAgIAAxkBAAPQZiwAAVvfxQTly4brM5vSgum3sWiGAAJ81TEbZChhSUU_zO6W50-wAQADAgADcwADNAQ",
+		"cardPower": 123,
+		"cardSection": "123",
+		"cardRarity": "123",
+		"cardDropChance": "123",
+		"cardDeffence": "123"
+	},
+	{
+		"cardName": "123",
+		"cardPhoto": "AgACAgIAAxkBAAPzZiwAAe-R5X4S5-DItP3YYZlMeS2iAAJ81TEbZChhSUU_zO6W50-wAQADAgADcwADNAQ",
+		"cardPower": 123,
+		"cardSection": "123",
+		"cardRarity": "123",
+		"cardDropChance": "123",
+		"cardDeffence": "123"
+	},
+	{
+		"cardName": "Erling Haaland",
+		"cardPhoto": "AgACAgIAAxkBAAIBDGYsASnp4lttDfyaxPnuhs4w0jhfAAIJ4DEb6Y1gSZFTnED6_3DHAQADAgADcwADNAQ",
+		"cardPower": 75,
+		"cardSection": "Нападающий",
+		"cardRarity": "Редкий",
+		"cardDropChance": "5",
+		"cardDeffence": "14"
+	}
+]

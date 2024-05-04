@@ -8,8 +8,8 @@
 		"rating": null,
 		"inventory": [],
 		"matchInventory": [],
-		"isAdmin": false,
-		"isWaiting": true,
+		"isAdmin": true,
+		"isWaiting": false,
 		"isMatch": false,
 		"wonMatches": 0,
 		"looseMatches": 0,
@@ -22,14 +22,25 @@
 		"last_name": "⁤",
 		"balance": 0,
 		"rating": null,
-		"inventory": [],
+		"inventory": [
+			{
+				"cardName": "123",
+				"cardPhoto": "AgACAgIAAxkBAAPQZiwAAVvfxQTly4brM5vSgum3sWiGAAJ81TEbZChhSUU_zO6W50-wAQADAgADcwADNAQ",
+				"cardPower": 123,
+				"cardSection": "123",
+				"cardRarity": "123",
+				"cardDropChance": "123",
+				"cardDeffence": "123"
+			}
+		],
 		"matchInventory": [],
 		"isAdmin": false,
 		"isWaiting": true,
 		"isMatch": false,
 		"wonMatches": 0,
 		"looseMatches": 0,
-		"lastActionTime": 0
+		"lastActionTime": 0,
+		"lastCardUseTime": 1714160200812
 	},
 	{
 		"id": 369411213,
@@ -38,13 +49,24 @@
 		"last_name": "Ястребов",
 		"balance": 0,
 		"rating": null,
-		"inventory": [],
+		"inventory": [
+			{
+				"cardName": "123",
+				"cardPhoto": "AgACAgIAAxkBAAPQZiwAAVvfxQTly4brM5vSgum3sWiGAAJ81TEbZChhSUU_zO6W50-wAQADAgADcwADNAQ",
+				"cardPower": 123,
+				"cardSection": "123",
+				"cardRarity": "123",
+				"cardDropChance": "123",
+				"cardDeffence": "123"
+			}
+		],
 		"matchInventory": [],
-		"isAdmin": false,
+		"isAdmin": true,
 		"isWaiting": false,
 		"isMatch": false,
 		"wonMatches": 0,
 		"looseMatches": 0,
-		"lastActionTime": 0
+		"lastActionTime": 0,
+		"lastCardUseTime": 1714160269113
 	}
 ]

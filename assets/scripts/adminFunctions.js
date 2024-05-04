@@ -1,5 +1,6 @@
 const fs = require('fs')
 const db = require('../db/db.json')
+const cards = require('../db/images/images.json')
 
 async function setAdmin(bot, msg){
     let admin = db.find(user => user.isAdmin === msg.text)
@@ -47,9 +48,8 @@ async function waitForPhoto(bot, chatId) {
 }
 
 function saveToJson(data) {
-  const dbPath = path.join(__dirname, "../db/images/images.json");
   const jsonData = JSON.stringify(data, null, "\t");
-  fs.writeFileSync(dbPath, jsonData);
+  fs.writeFileSync('./assets/db/images/images.json', jsonData);
 }
 
 async function askCardDetails(bot, msg) {

@@ -10,10 +10,10 @@ module.exports = {
     },
     adminKeyboard: {
         reply_markup: JSON.stringify({
-            keyboard: [
-                [{text: "Добавить карту"}],
-                [{text: "Добавить админа"}],
-                [{text: "Удалить админа"}]
+            inline_keyboard: [
+                [{text: "Добавить карту", callback_data: "add_card"}],
+                [{text: "Добавить админа", callback_data: "set_admin"}],
+                [{text: "Удалить админа", callback_data: "remove_admin"}],
             ],
             resize_keyboard: true
         })
