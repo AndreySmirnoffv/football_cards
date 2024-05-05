@@ -80,6 +80,7 @@ async function manageRoom(bot, msg) {
       console.log(`Победитель матча: ${winner.username}`);
       await bot.sendMessage(msg.chat.id, `Победитель матча: ${winner.username}`)
       winner.rating += 100
+      winner.wonMatches += 1
       fs.writeFileSync('./assets/db/db.json', JSON.stringify(db, null, '\t'))
     } else {
       await bot.sendMessage(msg.chat.id, 'Матч завершился вничью.')
