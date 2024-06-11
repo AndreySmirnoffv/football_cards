@@ -58,6 +58,24 @@
 				"cardRarity": "123",
 				"cardDropChance": "123",
 				"cardDeffence": "123"
+			},
+			{
+				"cardName": "Virgil van Dijk",
+				"cardPhoto": "AgACAgIAAxkBAAIBXmZcqMjB89QqYik6R0ViUlN6_GbkAAJv4TEbscfhSrb7CXAvP6gUAQADAgADcwADNQQ",
+				"cardPower": 40,
+				"cardSection": "Защита",
+				"cardRarity": "Супер редкая",
+				"cardDropChance": "3",
+				"cardDeffence": "50"
+			},
+			{
+				"cardName": "Marquinhos",
+				"cardPhoto": "AgACAgIAAxkBAAIC0mZctLgAAcPAK1RjZ6xvBPteRwMiUwACyeExG7HH4UoLlZIq_fE1-gEAAwIAA3MAAzUE",
+				"cardPower": 36,
+				"cardSection": "Защита",
+				"cardRarity": "Очень редкая",
+				"cardDropChance": "8",
+				"cardDeffence": "52"
 			}
 		],
 		"matchInventory": [],
@@ -67,6 +85,6 @@
 		"wonMatches": 0,
 		"looseMatches": 0,
 		"lastActionTime": 0,
-		"lastCardUseTime": 1714160269113
+		"lastCardUseTime": 1717439838781
 	}
 ]
