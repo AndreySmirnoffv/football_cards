@@ -14,5 +14,4 @@ async function createPayment(){
     console.log(response)
 }
 
-
 createPayment()

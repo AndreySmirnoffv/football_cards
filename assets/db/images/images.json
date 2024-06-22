@@ -439,5 +439,419 @@
 		"cardRarity": "Очень редкая",
 		"cardDropChance": "13",
 		"cardDeffence": "24"
+	},
+	{
+		"cardName": "Paulo Dybala",
+		"cardPhoto": "AgACAgIAAxkBAAIGTGZshClCJ4w6S2F7B6aD8KmgqHfnAAIx6zEbioZoS6MQL4WyNKZ4AQADAgADcwADNQQ",
+		"cardPower": 63,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "22"
+	},
+	{
+		"cardName": "Rafael Leão",
+		"cardPhoto": "AgACAgIAAxkBAAIGZWZshJ-GWunbnfH6--R1pR6gST4dAAI06zEbioZoS0xUOZinBN5dAQADAgADcwADNQQ",
+		"cardPower": 60,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "25"
+	},
+	{
+		"cardName": "Sadio Mané",
+		"cardPhoto": "AgACAgIAAxkBAAIGgmZshR72XLhv-XaFONeZkkrZZO2FAAI26zEbioZoS21oCyC2sz52AQADAgADcwADNQQ",
+		"cardPower": 61,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "24"
+	},
+	{
+		"cardName": "Christopher Nkunku",
+		"cardPhoto": "AgACAgIAAxkBAAIGm2ZshYJc68ouiupej4uTTHQqmQABKAACPusxG4qGaEtBoOZgt_ezLQEAAwIAA3MAAzUE",
+		"cardPower": 59,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "26"
+	},
+	{
+		"cardName": "Bukayo Saka",
+		"cardPhoto": "AgACAgIAAxkBAAIGtGZshfN2qY8HIWFA90SaWyTj_U8rAAJC6zEbioZoS1EAAejKUskFeQEAAwIAA3MAAzUE",
+		"cardPower": 63,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "22"
+	},
+	{
+		"cardName": "Bono",
+		"cardPhoto": "AgACAgIAAxkBAAIGzWZshsWxrYx8tvfqwXZMwasKhMJnAAJU6zEbioZoS2KBw8qfLaiwAQADAgADcwADNQQ",
+		"cardPower": 12,
+		"cardSection": "Вратарь",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "73"
+	},
+	{
+		"cardName": "Emiliano Martínez",
+		"cardPhoto": "AgACAgIAAxkBAAIG5mZshzXCRu_NtCGso9ywjzVPX90dAAJW6zEbioZoS_IpTzDSSYYiAQADAgADcwADNQQ",
+		"cardPower": 20,
+		"cardSection": "Вратарь",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "65"
+	},
+	{
+		"cardName": "André Onana",
+		"cardPhoto": "AgACAgIAAxkBAAIG_2Zsh3W2jpmAY0vRKx6VYjf6LzWyAAJX6zEbioZoS5s2PRrjlm_1AQADAgADcwADNQQ",
+		"cardPower": 14,
+		"cardSection": "Вратарь",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "71"
+	},
+	{
+		"cardName": "#1 Wojciech Szczęsny",
+		"cardPhoto": "AgACAgIAAxkBAAIHGGZsh9vdYz8bspUfejw8_QrZm7UxAAJZ6zEbioZoS2vxYSmMzNt_AQADAgADcwADNQQ",
+		"cardPower": 17,
+		"cardSection": "Вратарь",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "68"
+	},
+	{
+		"cardName": "David Alaba",
+		"cardPhoto": "AgACAgIAAxkBAAIHMWZsiQNl2HU5A76JAWfql0HCkMYdAAJj6zEbioZoS2GFJ53IPHmzAQADAgADcwADNQQ",
+		"cardPower": 33,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "52"
+	},
+	{
+		"cardName": "Raphaël Varane",
+		"cardPhoto": "AgACAgIAAxkBAAIHSmZsiWpFnQd7Pj1oAAF91aLw-zKsfAACausxG4qGaEu_7DqyNj0dBAEAAwIAA3MAAzUE",
+		"cardPower": 23,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "62"
+	},
+	{
+		"cardName": "Matthijs de Ligt",
+		"cardPhoto": "AgACAgIAAxkBAAIHY2ZsidDsKXrCiO_lZbGM1HmUW25rAAJx6zEbioZoS3jiHut7Z2mwAQADAgADcwADNQQ",
+		"cardPower": 18,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "67"
+	},
+	{
+		"cardName": "Giovanni Di Lorenzo",
+		"cardPhoto": "AgACAgIAAxkBAAIHfGZsin1G2zq3H9KzL0WWewYkmMDUAAKD6zEbioZoS-WGrjgRX8InAQADAgADcwADNQQ",
+		"cardPower": 39,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "46"
+	},
+	{
+		"cardName": "Aymeric Laporte",
+		"cardPhoto": "AgACAgIAAxkBAAIHlWZsiuANlX11yGpvkQOtGHhPgyrkAAKJ6zEbioZoSz99jQ1XWTzwAQADAgADcwADNQQ",
+		"cardPower": 16,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "69"
+	},
+	{
+		"cardName": "John Stones",
+		"cardPhoto": "AgACAgIAAxkBAAIHrmZsiywGGQABla1AOL5X-BxlPtiaMAACkOsxG4qGaEvr06WDA8R1IgEAAwIAA3MAAzUE",
+		"cardPower": 18,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "67"
+	},
+	{
+		"cardName": "Nicolò Barella",
+		"cardPhoto": "AgACAgIAAxkBAAIHx2ZsjCWu3ik_3tpWf_af8S5RG9uOAAKX6zEbioZoS_tkLezt2HW8AQADAgADcwADNQQ",
+		"cardPower": 49,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "36"
+	},
+	{
+		"cardName": "N'Golo Kanté",
+		"cardPhoto": "AgACAgIAAxkBAAIH4GZsjG3TSv0SIFkIqaHjzVWd0PT0AAKa6zEbioZoS1FM4uETtF2IAQADAgADcwADNQQ",
+		"cardPower": 29,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "56"
+	},
+	{
+		"cardName": "Sergej Milinković-Savić",
+		"cardPhoto": "AgACAgIAAxkBAAIH-WZsjLxPGQZIR7adRXySGd-oWzA_AAKb6zEbioZoSywiAmuCdjDPAQADAgADcwADNQQ",
+		"cardPower": 48,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "37"
+	},
+	{
+		"cardName": "Jamal Musiala",
+		"cardPhoto": "AgACAgIAAxkBAAIIEmZsjRY__zv8aE7LFss9n60tgVzPAAKd6zEbioZoS54vs_tyBlPZAQADAgADcwADNQQ",
+		"cardPower": 52,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "33"
+	},
+	{
+		"cardName": "Dani Parejo",
+		"cardPhoto": "AgACAgIAAxkBAAIIK2ZsjVyQX4-9TjbwCugWGutVCj5xAAKu6zEbioZoS8oAAcbyE5WD4QEAAwIAA3MAAzUE",
+		"cardPower": 42,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "17",
+		"cardDeffence": "43"
+	},
+	{
+		"cardName": "Iago Aspas",
+		"cardPhoto": "AgACAgIAAxkBAAIIRGZsjkkJ8kWPuOmqHLDotWEqOmOrAALr6zEbioZoSxpgUsIVmTfkAQADAgADcwADNQQ",
+		"cardPower": 62,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "22"
+	},
+	{
+		"cardName": "Dušan Vlahović",
+		"cardPhoto": "AgACAgIAAxkBAAIIXWZsjprvgCqynViPS5OUww_EKsesAALu6zEbioZoS8yAjMyEYgWpAQADAgADcwADNQQ",
+		"cardPower": 64,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "20"
+	},
+	{
+		"cardName": "Jack Grealish",
+		"cardPhoto": "AgACAgIAAxkBAAIIdmZsjvDPWBKSRJ7Lrzdi-KIo3tW9AALz6zEbioZoS24UGKZE92r8AQADAgADcwADNQQ",
+		"cardPower": 66,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "18"
+	},
+	{
+		"cardName": "Kingsley Coman",
+		"cardPhoto": "AgACAgIAAxkBAAIIj2ZsjzAe9lpyw7yNMM_oSJo7Vwf4AAL06zEbioZoS-DCXtYtl3stAQADAgADcwADNQQ",
+		"cardPower": 63,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "21"
+	},
+	{
+		"cardName": "Darwin Núñez",
+		"cardPhoto": "AgACAgIAAxkBAAIIr2Zwf1rbUNE9YLiZ19zqkQwdep8iAAKT3DEbykWAS4C4UzDVExYIAQADAgADcwADNQQ",
+		"cardPower": 60,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "24"
+	},
+	{
+		"cardName": "Rodrygo",
+		"cardPhoto": "AgACAgIAAxkBAAIIyGZwf7EdzTqf50hTaus_YKYO4kDJAAKV3DEbykWAS55NUrYhF1kTAQADAgADcwADNQQ",
+		"cardPower": 62,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "22"
+	},
+	{
+		"cardName": "Leroy Sane",
+		"cardPhoto": "AgACAgIAAxkBAAII4WZwf-agBRRCSrm2RKgErJmwYMMRAAKW3DEbykWAS7j_FQ_CPOooAQADAgADcwADNQQ",
+		"cardPower": 61,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "23"
+	},
+	{
+		"cardName": "Phil Foden",
+		"cardPhoto": "AgACAgIAAxkBAAII-mZwgBnRoo8-2xVSy7LQOdBpGlNBAAKX3DEbykWAS3fsSggDd8W3AQADAgADcwADNQQ",
+		"cardPower": 58,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "26"
+	},
+	{
+		"cardName": "Khvicha Kvaratskhelia",
+		"cardPhoto": "AgACAgIAAxkBAAIJE2ZwgFed5s7__RN4Sn-FGq4GGKlCAAKc3DEbykWAS-_1wMZq2CNbAQADAgADcwADNQQ",
+		"cardPower": 61,
+		"cardSection": "Нападение",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "23"
+	},
+	{
+		"cardName": "Keylor Navas",
+		"cardPhoto": "AgACAgIAAxkBAAIJLGZwgQOIiBW2mB3CoM1stMIgrD-JAAKe3DEbykWAS6fpFlf1vGx5AQADAgADcwADNQQ",
+		"cardPower": 21,
+		"cardSection": "Вратарь",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "63"
+	},
+	{
+		"cardName": "Aaron Ramsdale",
+		"cardPhoto": "AgACAgIAAxkBAAIJRWZwgWrfZmnnXP4PzYhhzK87RYnfAAKf3DEbykWASzZbjSodKebUAQADAgADcwADNQQ",
+		"cardPower": 19,
+		"cardSection": "Вратарь",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "65"
+	},
+	{
+		"cardName": "Kevin Trapp",
+		"cardPhoto": "AgACAgIAAxkBAAIJXmZwgauvaxnnK7Or62TaYCUWWOtXAAKi3DEbykWAS10pSc9WQ0lKAQADAgADcwADNQQ",
+		"cardPower": 20,
+		"cardSection": "Вратарь",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "64"
+	},
+	{
+		"cardName": "Alessandro Bastoni",
+		"cardPhoto": "AgACAgIAAxkBAAIJeWZwgw8fXyAQvN1Hv4uYeYptuYjMAAK33DEbykWAS0rkYPa7r3_BAQADAgADcwADNQQ",
+		"cardPower": 19,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "65"
+	},
+	{
+		"cardName": "Sven Botman",
+		"cardPhoto": "AgACAgIAAxkBAAIJkmZwg6usyW_fki4UVmfgCam1OZttAAK63DEbykWAS8JANzEKgr80AQADAgADcwADNQQ",
+		"cardPower": 18,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "66"
+	},
+	{
+		"cardName": "Lucas Hernández",
+		"cardPhoto": "AgACAgIAAxkBAAIJq2Zwg_O2qJRIfApG0T7235SqxpIQAAK93DEbykWAS5F-dNxeqBJiAQADAgADcwADNQQ",
+		"cardPower": 34,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "50"
+	},
+	{
+		"cardName": "Theo Hernández",
+		"cardPhoto": "AgACAgIAAxkBAAIJ3WZwhWF8fSkeiUb-o3fQwbCYeLRUAALQ3DEbykWASwsbsMlsP2p2AQADAgADcwADNQQ",
+		"cardPower": 34,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "50"
+	},
+	{
+		"cardName": "Kieran Trippier",
+		"cardPhoto": "AgACAgIAAxkBAAIJ9mZwhac9R11u27dpi--ZtWN1hjGOAALg3DEbykWAS4LGfkgOK3uvAQADAgADcwADNQQ",
+		"cardPower": 39,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "45"
+	},
+	{
+		"cardName": "Achraf Hakimi",
+		"cardPhoto": "AgACAgIAAxkBAAIKD2Zwhe8N0jQ533_2FGd5Lklaiqg1AALn3DEbykWAS30gCtW4923IAQADAgADcwADNQQ",
+		"cardPower": 41,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "43"
+	},
+	{
+		"cardName": "Milan Skriniar",
+		"cardPhoto": "AgACAgIAAxkBAAIKKGZwhiuGyuamGv648cr0HMgaHrw1AALo3DEbykWASwlrDuCCce4dAQADAgADcwADNQQ",
+		"cardPower": 18,
+		"cardSection": "Защита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "66"
+	},
+	{
+		"cardName": "Florian Wirtz",
+		"cardPhoto": "AgACAgIAAxkBAAIKQWZwh4Gvj04cfaXH4GsmWTkuSVaUAAL23DEbykWAS_VgTDG4xWrZAQADAgADcwADNQQ",
+		"cardPower": 64,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "20"
+	},
+	{
+		"cardName": "Bruno Guimarães",
+		"cardPhoto": "AgACAgIAAxkBAAIKWmZwh8R49rIbwREcskyT_NP2JpcsAAL33DEbykWAS9ZvTDreG8SNAQADAgADcwADNQQ",
+		"cardPower": 62,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "22"
+	},
+	{
+		"cardName": "Moussa Diaby",
+		"cardPhoto": "AgACAgIAAxkBAAIKc2ZwiAEO4JNWA1D5zYMJ7PcMszKRAAL63DEbykWASwq2H31l05iNAQADAgADcwADNQQ",
+		"cardPower": 60,
+		"cardSection": "Полузащита",
+		"cardRarity": "РЕдкая",
+		"cardDropChance": "23",
+		"cardDeffence": "24"
+	},
+	{
+		"cardName": "James Maddison",
+		"cardPhoto": "AgACAgIAAxkBAAIKjGZwiD9_hglunN52A_3fgUB_YFwqAAL83DEbykWAS1CTAwuW5khfAQADAgADcwADNQQ",
+		"cardPower": 62,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "22"
+	},
+	{
+		"cardName": "Sandro Tonali",
+		"cardPhoto": "AgACAgIAAxkBAAIKpWZwiHL5NxOfSQ_1EYS7dSlY2VB4AAL-3DEbykWASxjmQN6CnsYCAQADAgADcwADNQQ",
+		"cardPower": 34,
+		"cardSection": "Полузащита",
+		"cardRarity": "РЕдкая",
+		"cardDropChance": "23",
+		"cardDeffence": "50"
+	},
+	{
+		"cardName": "Aurélien Tchouaméni",
+		"cardPhoto": "AgACAgIAAxkBAAIKvmZwiK5ODl4LZTufbVBrgJk6S4cfAAL_3DEbykWAS-LOKC6x16ouAQADAgADcwADNQQ",
+		"cardPower": 38,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "46"
+	},
+	{
+		"cardName": "Hakan Çalhanoğlu",
+		"cardPhoto": "AgACAgIAAxkBAAIK12ZwiP239xgoHkTYfEahnsIgXox6AAPdMRvKRYBL-GXKWntXaG0BAAMCAANzAAM1BA",
+		"cardPower": 39,
+		"cardSection": "Полузащита",
+		"cardRarity": "Редкая",
+		"cardDropChance": "23",
+		"cardDeffence": "45"
 	}
 ]

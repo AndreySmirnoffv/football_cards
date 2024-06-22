@@ -6,14 +6,25 @@
 		"last_name": "Смирнов",
 		"balance": 0,
 		"rating": null,
-		"inventory": [],
+		"inventory": [
+			{
+				"cardName": "Frenkie de Jong",
+				"cardPhoto": "AgACAgIAAxkBAAIFsWZeFs0g3Heorw0CoeESVZarY_PbAAKU3DEb-GfwShExG7h8F7HPAQADAgADcwADNQQ",
+				"cardPower": 49,
+				"cardSection": "Полузащита",
+				"cardRarity": "Очень редкая",
+				"cardDropChance": "13",
+				"cardDeffence": "37"
+			}
+		],
 		"matchInventory": [],
 		"isAdmin": true,
 		"isWaiting": false,
 		"isMatch": false,
 		"wonMatches": 0,
 		"looseMatches": 0,
-		"lastActionTime": 0
+		"lastActionTime": 0,
+		"lastCardUseTime": 1718215811819
 	},
 	{
 		"id": 1425448286,
@@ -76,6 +87,24 @@
 				"cardRarity": "Очень редкая",
 				"cardDropChance": "8",
 				"cardDeffence": "52"
+			},
+			{
+				"cardName": "Ronald Araujo",
+				"cardPhoto": "AgACAgIAAxkBAAICbmZcslbRoOBg5Lb4siBVGz1yVC-lAAKu4TEbscfhSpyYYALC_hjRAQADAgADcwADNQQ",
+				"cardPower": 33,
+				"cardSection": "Защита",
+				"cardRarity": "Очень редкий",
+				"cardDropChance": "8",
+				"cardDeffence": "55"
+			},
+			{
+				"cardName": "Alisson",
+				"cardPhoto": "AgACAgIAAxkBAAIB4GZcrfZf3sDzxT0JHmulcoy0EB9UAAKJ4TEbscfhSupFld8u0JSnAQADAgADcwADNQQ",
+				"cardPower": 10,
+				"cardSection": "Вратарь",
+				"cardRarity": "Супер редкая",
+				"cardDropChance": "5",
+				"cardDeffence": "79"
 			}
 		],
 		"matchInventory": [],
@@ -85,6 +114,6 @@
 		"wonMatches": 0,
 		"looseMatches": 0,
 		"lastActionTime": 0,
-		"lastCardUseTime": 1717439838781
+		"lastCardUseTime": 1718648611450
 	}
 ]
